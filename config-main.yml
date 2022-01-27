@@ -1,1 +1,2 @@
-version=1
+config:
+  info: config-main,version=1
